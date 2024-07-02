@@ -6,11 +6,11 @@
 
 In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.
 
-|   Index | Name                                                | Level   | Repo                                                            | Course Link                                                          |
-|---------|-----------------------------------------------------|---------|-----------------------------------------------------------------|----------------------------------------------------------------------|
-|       1 | [Quick Start with C++](#quick-start-with-c++)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-cpp)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-cpp)    |
-|       2 | [C++ Practice Labs](#c++-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/cpp-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/cpp-practice-labs)       |
-|       3 | [C++ Practice Challenges](#c++-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/cpp-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/cpp-practice-challenges) |
+|   Index | Name                                                                        | Level   | Repo                                                            | Course Link                                                 |
+|---------|-----------------------------------------------------------------------------|---------|-----------------------------------------------------------------|-------------------------------------------------------------|
+|       1 | [Quick Start with C++](https://labex.io/courses/quick-start-with-cpp)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-cpp)    | [🚀 Start](https://labex.io/courses/quick-start-with-cpp)    |
+|       2 | [C++ Practice Labs](https://labex.io/courses/cpp-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/cpp-practice-labs)       | [🚀 Start](https://labex.io/courses/cpp-practice-labs)       |
+|       3 | [C++ Practice Challenges](https://labex.io/courses/cpp-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/cpp-practice-challenges) | [🚀 Start](https://labex.io/courses/cpp-practice-challenges) |
 
 ## More Courses
 

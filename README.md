@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
 </div>
 
-In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.
+C++ is a powerful, high-performance programming language. This Skill Tree presents a systematic approach to learning C++. Designed for programmers looking to master object-oriented and systems programming, it offers a structured roadmap to understand C++ syntax, memory management, and the Standard Template Library. Hands-on, non-video courses and coding exercises in an interactive C++ playground ensure you develop practical skills in writing efficient and robust C++ programs.
 
 |   Index | Name                                                                        | Level   | Repo                                                            | Course Link                                                 |
 |---------|-----------------------------------------------------------------------------|---------|-----------------------------------------------------------------|-------------------------------------------------------------|
@@ -15,15 +15,15 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)

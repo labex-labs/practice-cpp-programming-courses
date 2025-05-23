@@ -12,7 +12,7 @@ C++ は高性能で強力なプログラミング言語です。このスキル�
 
 |   インデックス | 名前                                                                                       | 難易度   | Repo                                                                   | 練習                                                                       |
 |----------------|--------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|              1 | [初心者向け C++ プログラミング](https://labex.io/ja/courses/cpp-programming-for-beginners) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/cpp-programming-for-beginners) |
+|              1 | [初心者向け C++ プログラミング](https://labex.io/ja/courses/cpp-programming-for-beginners) | 初級     | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 ラボを開始](https://labex.io/ja/courses/cpp-programming-for-beginners) |
 
 ## その他
 

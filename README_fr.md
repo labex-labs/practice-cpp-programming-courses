@@ -12,7 +12,7 @@ C++ est un langage de programmation puissant et performant. Cet arbre de compét
 
 |   Index | Nom                                                                                                  | Difficulté   | Repo                                                                   | Pratique                                                                         |
 |---------|------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|       1 | [Programmation en C++ pour les débutants](https://labex.io/fr/courses/cpp-programming-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/cpp-programming-for-beginners) |
+|       1 | [Programmation en C++ pour les débutants](https://labex.io/fr/courses/cpp-programming-for-beginners) | Débutant     | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Commencer le Lab](https://labex.io/fr/courses/cpp-programming-for-beginners) |
 
 ## Plus
 

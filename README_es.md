@@ -12,7 +12,7 @@ C++ es un lenguaje de programación potente y de alto rendimiento. Este Skill Tr
 
 |   Índice | Nombre                                                                                              | Dificultad   | Repo                                                                   | Práctica                                                                            |
 |----------|-----------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|        1 | [Programación en C++ para Principiantes](https://labex.io/es/courses/cpp-programming-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/cpp-programming-for-beginners) |
+|        1 | [Programación en C++ para Principiantes](https://labex.io/es/courses/cpp-programming-for-beginners) | Principiante | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/cpp-programming-for-beginners) |
 
 ## Más
 

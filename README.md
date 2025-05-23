@@ -12,7 +12,7 @@ C++ is a high - performance and powerful programming language. This Skill Tree o
 
 |   Index | Name                                                                                    | Difficulty   | Repo                                                                   | Practice                                                               |
 |---------|-----------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [C++ Programming for Beginners](https://labex.io/courses/cpp-programming-for-beginners) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Start Lab](https://labex.io/courses/cpp-programming-for-beginners) |
+|       1 | [C++ Programming for Beginners](https://labex.io/courses/cpp-programming-for-beginners) | Beginner     | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Start Lab](https://labex.io/courses/cpp-programming-for-beginners) |
 
 ## More
 

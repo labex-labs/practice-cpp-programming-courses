@@ -12,7 +12,7 @@ C++ ist eine leistungsstarke und effiziente Programmiersprache. Dieser Skill Tre
 
 |   Index | Name                                                                                         | Schwierigkeit   | Repo                                                                   | Übung                                                                         |
 |---------|----------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|       1 | [C++-Programmierung für Anfänger](https://labex.io/de/courses/cpp-programming-for-beginners) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/cpp-programming-for-beginners) |
+|       1 | [C++-Programmierung für Anfänger](https://labex.io/de/courses/cpp-programming-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/cpp-programming-for-beginners) |
 
 ## Mehr
 

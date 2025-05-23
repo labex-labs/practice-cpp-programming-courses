@@ -12,7 +12,7 @@ C++ 는 고성능의 강력한 프로그래밍 언어입니다. 이 스킬 트�
 
 |   인덱스 | 이름                                                                             | 난이도   | Repo                                                                   | 연습                                                                      |
 |----------|----------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [C++ 프로그래밍 입문](https://labex.io/ko/courses/cpp-programming-for-beginners) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 실습 시작](https://labex.io/ko/courses/cpp-programming-for-beginners) |
+|        1 | [C++ 프로그래밍 입문](https://labex.io/ko/courses/cpp-programming-for-beginners) | 초급     | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 실습 시작](https://labex.io/ko/courses/cpp-programming-for-beginners) |
 
 ## 더 보기
 

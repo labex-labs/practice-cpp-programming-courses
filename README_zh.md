@@ -12,7 +12,7 @@ C++ 是一种高性能、功能强大的编程语言。本技能树为学习 C++
 
 |   序号 | 名称                                                                      | 难度   | Repo                                                                   | 练习                                                                     |
 |--------|---------------------------------------------------------------------------|--------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|      1 | [C++ 编程入门](https://labex.io/zh/courses/cpp-programming-for-beginners) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 开始实验](https://labex.io/zh/courses/cpp-programming-for-beginners) |
+|      1 | [C++ 编程入门](https://labex.io/zh/courses/cpp-programming-for-beginners) | 初级   | [🔗 Repo](https://github.com/labex-labs/cpp-programming-for-beginners) | [🚀 开始实验](https://labex.io/zh/courses/cpp-programming-for-beginners) |
 
 ## 更多
 
